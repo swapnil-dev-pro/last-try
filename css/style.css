@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.a{
+    height: 300px;
+    width: 400px;
+    background: red;
+    margin: auto;
+    background-image: url(../images/pexels-photo-1707820.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.o{
+    background-color: rgba(0, 0, 0, 0.45);
+    height: 300px;
+    width: 400px;
+}
+.o h1{
+    color: rgb(3, 241, 170);
+    padding: 100px 100px 100px 100px;
+}
