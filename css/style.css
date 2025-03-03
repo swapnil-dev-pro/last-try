@@ -22,3 +22,58 @@
     color: rgb(3, 241, 170);
     padding: 100px 100px 100px 100px;
 }
+.hw{
+    height:300px;
+    width: 400px;
+    background: red;
+    position: relative;
+}
+.q{
+    height:100px;
+    width: 100px;
+    background-color: green;
+
+    position: absolute;
+    
+}
+.w{
+    height:100px;
+    width: 100px;
+    background-color: green;
+    top:0%;
+    right: 0%;
+    
+    position: absolute;
+    
+}
+.e{
+    height:100px;
+    width: 100px;
+    background-color: green;
+    bottom:0%;
+    right: 0%;
+ 
+    position: absolute;
+    
+}
+.r{
+    height:100px;
+    width: 100px;
+    background-color: green;
+    bottom:0%;
+   left: 0%;
+
+    position: absolute;
+    
+
+}
+.t{
+        height:100px;
+        width: 100px;
+        background-color: green;
+        bottom:34%;
+        right: 37%;
+       border-radius: 50%;
+        position: absolute;
+        
+    }
